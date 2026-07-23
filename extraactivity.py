@@ -1,0 +1,12 @@
+import datetime
+order_time = datetime.datetime.now()
+customer = input("Customer Name: ")
+pizza_name = input(" Pizza Name: ")
+price = float(input("Price: $"))
+print("\n=======PIZZA RECEIPT=======")
+print("Customer:", customer)
+print("Pizza Name:", pizza_name)
+print("Price: $", price)
+print("Order Time:", order_time)
+print("<<<<<<<<<<THANK YOU FOR ORDERING>>>>>>>>>>")
+print("<<<<<<<<<<VISIT AGAIN>>>>>>>>>>")
