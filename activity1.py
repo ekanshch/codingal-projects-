@@ -1,8 +1,10 @@
-# Printing a greeting message 
-print("Hello, World!")
-#Printing my name 
-print("My name is Ekansh.")
-#printing a fun fact about myself 
-print("I love soccer.")
-#performing and printing a simple calculation 
-print("The result of 3+5 is:", 3+5)
+#printing a sentence 
+print("Welcome to the world of programming!")
+#print a number 
+print(30)
+#next line after print 
+print("hello python! \n")
+#pass multiple arguments for printing
+print("Hello, my name is Ekansh.", 5)
+#end argument of the statement 
+print("Welcome to", end="#")
